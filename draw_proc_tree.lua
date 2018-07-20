@@ -1,6 +1,6 @@
-require "proc"
-require "vba_console"
-require "press_input"
+require "util/proc"
+require "util/vba_console"
+require "util/press_input"
 
 -- Config
 config = {

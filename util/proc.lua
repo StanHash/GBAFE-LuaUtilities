@@ -1,4 +1,4 @@
-require "gba"
+require "util/gba"
 
 proc = {
 	references = {
