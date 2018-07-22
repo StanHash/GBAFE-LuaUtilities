@@ -9,4 +9,4 @@ Use with a lua-capable emulator such as [VBA-ReRecording](https://github.com/TAS
 (there's more, but those are libraries for use from other scripts)
 
 - `draw_proc_tree.lua` - draws the ["proc tree"](http://feuniverse.us/t/guide-doc-asm-procs-or-6cs-coroutines-threads-fibers-funky-structs-whatever/3352?u=stanh) on screen
-- that's all for now sorry
+- `fe6_rng.lua` - draws the next 10 rns on screen and computes how far into the rn string the next double 100 roll is located.
